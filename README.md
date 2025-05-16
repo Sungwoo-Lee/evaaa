@@ -17,8 +17,6 @@ Key features include:
 - **Unified, Intrinsic Reward System:** Rewards are derived from internal state dynamics, enabling autonomous goal generation and reducing the need for manual reward engineering.
 - **Modular & Extensible Design:** All core systems (Agent, Environment, Event, SceneControllers, UI, Utility) are highly modular and configurable via JSON, supporting rapid experiment iteration and reproducibility.
 
-EVAAA thus provides a principled, extensible framework for studying autonomy, adaptivity, and internal-state-driven control in RL agents, bridging the gap between artificial and biological models of adaptive behavior, and enabling both the development and systematic evaluation of robust, generalizable agent behaviors.
-
 ## 🤖 Emergent Behavior of the Agent
 
 |type| Unsuccessful Agent in Two-Resource Scenario | Successful Agent in Two-Resource Scenario |
