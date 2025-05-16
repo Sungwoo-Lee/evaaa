@@ -28,7 +28,7 @@ Key features include:
 |type| Normal Foraging Behavior | Abnormal Self-Terminating Behavior |
 |:-------------------:|:-------------------------------------------:|:-----------------------------------------:|
 | training |![level-3-1](image/level-3-1.jpeg)|![level-3-2](image/level-3-2.jpeg)|
-| testing | ![Failed agent](image/level-3-1_exp-Ymaze.gif)<br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | ![Succeed agent](image/level-3-2_exp-Ymaze.gif)<br><sub>This agent was trained in level-3-2, where dynamically shifting resource locations heightened environmental uncertainty. Consequently, when the agent failed to locate food in the field, it began terminating episodes early to avoid negative rewards, resulting in self-terminating behavior.</sub> |
+| testing | ![Failed agent](image/level-3-1_exp-Ymaze.gif)<br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | ![Succeed agent](image/level-3-2_exp-Ymaze.gif)<br><sub>In level-3-2, dynamic resource locations increased uncertainty, prompting the agent to self-terminate early when food was not found to avoid negative rewards.</sub> |
 
 
 ## 📝 Overview
