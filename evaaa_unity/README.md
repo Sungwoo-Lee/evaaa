@@ -172,7 +172,7 @@ EVAAA is designed so that all environment, agent, and task settings are controll
 
 <!-- ![fig3](../image/fig3.png) -->
 <p align="center">
-  <img src="../image/fig3.png" alt="Figure 3" width="1000"/>
+  <img src="../image/fig3.png" alt="Figure 3" width="700"/>
 </p>
 
 #### 3. Modifying Environment, Agent, or Task Settings

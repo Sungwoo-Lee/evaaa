@@ -39,7 +39,7 @@ This folder includes three main algorithms:
 
 <!-- ![fig4](../image/fig4.png) -->
 <p align="center">
-  <img src="../image/fig4.png" alt="Figure 4" width="1000"/>
+  <img src="../image/fig4.png" alt="Figure 4" width="700"/>
 </p>
 
 
@@ -161,7 +161,7 @@ The EVAAA environment provides multiple observation channels through the ML-Agen
 
 <!-- ![fig2](../image/fig2.png) -->
 <p align="center">
-  <img src="../image/fig2.png" alt="Figure 2" width="1000"/>
+  <img src="../image/fig2.png" alt="Figure 2" width="700"/>
 </p>
 
 ### Vector Observations (obs[1])
