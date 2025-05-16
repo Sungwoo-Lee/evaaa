@@ -34,7 +34,7 @@ Key features include:
 | training |![level-3-1](image/level-3-1.jpeg)|![level-3-2](image/level-3-2.jpeg)|
 | testing | ![Failed agent](image/level-3-1_exp-Ymaze.gif)<br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | ![Succeed agent](image/level-3-2_exp-Ymaze.gif)<br><sub>In level-3-2, dynamic resource locations increased uncertainty, prompting the agent to self-terminate early when food was not found to avoid negative rewards.</sub> | -->
 
-| type | Unsuccessful Agent in Two-Resource Scenario | Successful Agent in Two-Resource Scenario |
+<!-- | type | Unsuccessful Agent in Two-Resource Scenario | Successful Agent in Two-Resource Scenario |
 |:----:|:-------------------------------------------:|:-----------------------------------------:|
 | training | <img src="image/level-1-1.jpeg" width="250"/> | <img src="image/level-2-1.jpeg" width="250"/> |
 | testing | <img src="image/level-1-1_exp-two-resource-food.gif" width="250"/><br><sub>This agent operated only in level-1-1,<br>where resources are readily accessible and visible.</sub> | <img src="image/level-2-1_exp-two-resource-food.gif" width="250"/><br><sub>This agent navigated level-2-1,<br>where resources must be actively searched for and are less apparent.</sub> |
@@ -44,7 +44,79 @@ Key features include:
 | type | Normal Foraging Behavior | Abnormal Self-Terminating Behavior |
 |:----:|:--------------------------:|:----------------------------------:|
 | training | <img src="image/level-3-1.jpeg" width="250"/> | <img src="image/level-3-2.jpeg" width="250"/> |
-| testing | <img src="image/level-3-1_exp-Ymaze.gif" width="250"/><br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | <img src="image/level-3-2_exp-Ymaze.gif" width="250"/><br><sub>In level-3-2, dynamic resource locations increased uncertainty, prompting the agent to self-terminate early when food was not found to avoid negative rewards.</sub> |
+| testing | <img src="image/level-3-1_exp-Ymaze.gif" width="250"/><br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | <img src="image/level-3-2_exp-Ymaze.gif" width="250"/><br><sub>In level-3-2, dynamic resource locations increased uncertainty, prompting the agent to self-terminate early when food was not found to avoid negative rewards.</sub> | -->
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:180px; text-align:center;">Type</th>
+      <th style="width:300px; text-align:center;">Unsuccessful Agent in Two-Resource Scenario</th>
+      <th style="width:300px; text-align:center;">Successful Agent in Two-Resource Scenario</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;">Training</td>
+      <td style="text-align:center;"><img src="image/level-1-1.jpeg" width="250"/></td>
+      <td style="text-align:center;"><img src="image/level-2-1.jpeg" width="250"/></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Testing</td>
+      <td style="text-align:center;">
+        <img src="image/level-1-1_exp-two-resource-food.gif" width="250"/><br>
+        <div style="font-size:12px;">
+          This agent operated only in level-1-1,<br>
+          where resources are readily accessible and visible.
+        </div>
+      </td>
+      <td style="text-align:center;">
+        <img src="image/level-2-1_exp-two-resource-food.gif" width="250"/><br>
+        <div style="font-size:12px;">
+          This agent navigated level-2-1,<br>
+          where resources must be actively searched for and are less apparent.
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:180px; text-align:center;">Type</th>
+      <th style="width:300px; text-align:center;">Normal Foraging Behavior</th>
+      <th style="width:300px; text-align:center;">Abnormal Self-Terminating Behavior</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;">Training</td>
+      <td style="text-align:center;"><img src="image/level-3-1.jpeg" width="250"/></td>
+      <td style="text-align:center;"><img src="image/level-3-2.jpeg" width="250"/></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Testing</td>
+      <td style="text-align:center;">
+        <img src="image/level-3-1_exp-Ymaze.gif" width="250"/><br>
+        <div style="font-size:12px;">
+          This agent was trained on level-3-1,<br>
+          where food resources are located in consistent and predictable positions.
+        </div>
+      </td>
+      <td style="text-align:center;">
+        <img src="image/level-3-2_exp-Ymaze.gif" width="250"/><br>
+        <div style="font-size:12px;">
+          In level-3-2, dynamic resource locations increased uncertainty,<br>
+          prompting the agent to self-terminate early when food was not found<br>
+          to avoid negative rewards.
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
