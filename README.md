@@ -6,7 +6,7 @@
 
 <!-- ![fig1](image/fig1.png)
  -->
- <p align="center">
+ <p align="left">
   <img src="image/fig1.png" alt="Figure 1" width="1000"/>
 </p>
 

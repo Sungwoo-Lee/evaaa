@@ -38,7 +38,7 @@ This folder includes three main algorithms:
 - **DQN (Deep Q-Network)**: Custom implementation by our team
 
 <!-- ![fig4](../image/fig4.png) -->
-<p align="center">
+<p align="left">
   <img src="../image/fig4.png" alt="Figure 4" width="1000"/>
 </p>
 
@@ -160,7 +160,7 @@ The EVAAA environment provides multiple observation channels through the ML-Agen
 - `obs[1]`: Vector observation containing multiple sensor readings
 
 <!-- ![fig2](../image/fig2.png) -->
-<p align="center">
+<p align="left">
   <img src="../image/fig2.png" alt="Figure 2" width="1000"/>
 </p>
 
