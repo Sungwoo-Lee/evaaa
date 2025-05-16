@@ -52,8 +52,8 @@ EVAAA (Essential Variables in Autonomous and Adaptive Agents) is a research plat
 └── README.md      # (You are here)
 ```
 
-- **`evaaa_unity/`**: Contains the Unity project for the EVAAA simulation environment. See [`evaaa_unity/README.md`](evaaa_unity/README.md) for setup, configuration, and usage instructions.
-- **`evaaa_train/`**: Contains the Python code for training and evaluating RL agents in EVAAA. See [`evaaa_train/README.md`](evaaa_train/README.md) for installation, training commands, and evaluation details.
+- **`evaaa_unity/`**: Contains the Unity project for the EVAAA simulation environment. See [`evaaa_unity/README.md`](evaaa_unity/) for setup, configuration, and usage instructions.
+- **`evaaa_train/`**: Contains the Python code for training and evaluating RL agents in EVAAA. See [`evaaa_train/README.md`](evaaa_train/) for installation, training commands, and evaluation details.
 
 ---
 
@@ -61,8 +61,8 @@ EVAAA (Essential Variables in Autonomous and Adaptive Agents) is a research plat
 
 | Component         | Description                                      | Quick Link                                  |
 |-------------------|--------------------------------------------------|---------------------------------------------|
-| Unity Environment | 3D simulation, agent embodiment, configuration   | [evaaa_unity/README.md](evaaa_unity/README.md) |
-| Python Training   | RL algorithms, logging, evaluation, curriculum   | [evaaa_train/README.md](evaaa_train/README.md) |
+| Unity Environment | 3D simulation, agent embodiment, configuration   | [evaaa_unity](evaaa_unity/) |
+| Python Training   | RL algorithms, logging, evaluation, curriculum   | [evaaa_train](evaaa_train/) |
 
 - **New to EVAAA?**
   1. Start with the [Unity environment setup](evaaa_unity/README.md) to explore or customize the simulation.
