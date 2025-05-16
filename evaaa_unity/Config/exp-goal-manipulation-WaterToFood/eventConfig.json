@@ -1,0 +1,16 @@
+{
+    "groups": [
+        {
+            "name": "ResourceTrigger",
+            "triggerTag": "resource",
+            "targetTag": "player",
+            "maxCount": 1,
+            "position": { "x": 13.0, "y": -0.5, "z": 0.0 },
+            "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 },
+            "scale": { "x": 1.0, "y": 7.0, "z": 30.0 },
+            "foodValue": -7.0,
+            "waterValue": 7.0,
+            "message": ""
+        }
+    ]
+} 

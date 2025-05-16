@@ -1,0 +1,541 @@
+{
+    "groups": [
+        {
+            "prefabName": "Tree",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": 27.299999237060548,
+                "xMax": 27.299999237060548,
+                "yMin": 0.4000000059604645,
+                "yMax": 0.4000000059604645,
+                "zMin": -28.299999237060548,
+                "zMax": -28.299999237060548
+            },
+            "rotationRange": {
+                "x": 359.9769287109375,
+                "y": 0.0078507075086236,
+                "z": 0.01879071444272995
+            },
+            "scaleRange": {
+                "xMin": 0.8310930132865906,
+                "xMax": 0.8310930132865906,
+                "yMin": 2.0,
+                "yMax": 2.0,
+                "zMin": 1.0215786695480347,
+                "zMax": 1.0215786695480347
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -29.999874114990236,
+                "xMax": -29.999874114990236,
+                "yMin": 0.44384765625,
+                "yMax": 0.44384765625,
+                "zMin": -29.999807357788087,
+                "zMax": -29.999807357788087
+            },
+            "rotationRange": {
+                "x": 359.9766845703125,
+                "y": -0.004760966636240482,
+                "z": 0.024780379608273507
+            },
+            "scaleRange": {
+                "xMin": 1.1237021684646607,
+                "xMax": 1.1237021684646607,
+                "yMin": 2.0,
+                "yMax": 2.0,
+                "zMin": 1.0687297582626343,
+                "zMax": 1.0687297582626343
+            }
+        },
+        {
+            "prefabName": "Tree",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -29.999874114990236,
+                "xMax": -29.999874114990236,
+                "yMin": 0.44384002685546877,
+                "yMax": 0.44384002685546877,
+                "zMin": 30.000186920166017,
+                "zMax": 30.000186920166017
+            },
+            "rotationRange": {
+                "x": 359.9771728515625,
+                "y": -0.004850197583436966,
+                "z": 0.024413464590907098
+            },
+            "scaleRange": {
+                "xMin": 1.10581374168396,
+                "xMax": 1.10581374168396,
+                "yMin": 2.0,
+                "yMax": 2.0,
+                "zMin": 1.0430262088775635,
+                "zMax": 1.0430262088775635
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": 8.449999809265137,
+                "xMax": 8.449999809265137,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -24.110000610351564,
+                "zMax": -24.110000610351564
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 290.54034423828127,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": 13.65999984741211,
+                "xMax": 13.65999984741211,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -14.229999542236329,
+                "zMax": -14.229999542236329
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 304.83355712890627,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": 21.90999984741211,
+                "xMax": 21.90999984741211,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -9.699999809265137,
+                "zMax": -9.699999809265137
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": 32.13999938964844,
+                "xMax": 32.13999938964844,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -9.800000190734864,
+                "zMax": -9.800000190734864
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": 43.349998474121097,
+                "xMax": 43.349998474121097,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -9.890000343322754,
+                "zMax": -9.890000343322754
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -11,
+                "xMax": -11,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -32.5,
+                "zMax": -32.5
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 281.5325012207031,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 60.0,
+                "xMax": 60.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -13.690001487731934,
+                "xMax": -13.690001487731934,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -24.34000015258789,
+                "zMax": -24.34000015258789
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 237.04510498046876,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -22.80000114440918,
+                "xMax": -22.80000114440918,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -18.799999237060548,
+                "zMax": -18.799999237060548
+            },
+            "rotationRange": {
+                "x": 270.019775390625,
+                "y": 185.55978393554688,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -34.30000305175781,
+                "xMax": -34.30000305175781,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -17.700000762939454,
+                "zMax": -17.700000762939454
+            },
+            "rotationRange": {
+                "x": 270.019775390625,
+                "y": 185.55978393554688,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -44.70000076293945,
+                "xMax": -44.70000076293945,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": -16.600000381469728,
+                "zMax": -16.600000381469728
+            },
+            "rotationRange": {
+                "x": 270.019775390625,
+                "y": 185.55978393554688,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -22.100000381469728,
+                "xMax": -22.100000381469728,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": 10.300000190734864,
+                "zMax": 10.300000190734864
+            },
+            "rotationRange": {
+                "x": 270.019775390625,
+                "y": 185.55978393554688,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -12.199999809265137,
+                "xMax": -12.199999809265137,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": 13.5,
+                "zMax": 13.5
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 138.79769897460938,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -8.300000190734864,
+                "xMax": -8.300000190734864,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": 22.360000610351564,
+                "zMax": 22.360000610351564
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -8.5,
+                "xMax": -8.5,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": 32.5,
+                "zMax": 32.5
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "RockWall",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -8.5,
+                "xMax": -8.5,
+                "yMin": 0.5,
+                "yMax": 0.5,
+                "zMin": 44.0,
+                "zMax": 44.0
+            },
+            "rotationRange": {
+                "x": 270.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 100.0,
+                "xMax": 100.0,
+                "yMin": 100.0,
+                "yMax": 100.0,
+                "zMin": 100.0,
+                "zMax": 100.0
+            }
+        },
+        {
+            "prefabName": "Bush2",
+            "count": 70,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -48, "xMax": 48,
+                "yMin": 0, "yMax": 0,
+                "zMin": -48, "zMax": 49
+            },
+            "rotationRange": { "x": 0, "y": 0, "z": 0 },
+            "scaleRange": {
+                "xMin": 1.5, "xMax": 2.0,
+                "yMin": 1.5, "yMax": 2.0,
+                "zMin": 1.5, "zMax": 2.0
+            }
+        },
+        {
+            "prefabName": "Small_Rock1",
+            "count": 20,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -45, "xMax": 10,
+                "yMin": 0, "yMax": 0,
+                "zMin": -35, "zMax": 40
+            },
+            "rotationRange": { "x": 0, "y": 360, "z": 0 },
+            "scaleRange": {
+                "xMin": 1, "xMax": 1,
+                "yMin": 1, "yMax": 1,
+                "zMin": 1, "zMax": 1
+            }
+        },
+        {
+            "prefabName": "SM_campfire_001_AmbienceFX",
+            "count": 10,
+            "temperature": 1000.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -45, "xMax": 10,
+                "yMin": 0.5, "yMax": 0.5,
+                "zMin": -35, "zMax": 40
+            },
+            "rotationRange": { "x": 0, "y": 360, "z": 0 },
+            "scaleRange": {
+                "xMin": 2, "xMax": 2,
+                "yMin": 2, "yMax": 2,
+                "zMin": 2, "zMax": 2
+            }
+        }
+    ]
+}

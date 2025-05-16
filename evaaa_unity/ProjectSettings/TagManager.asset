@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - agent
+  - wall
+  - ground
+  - cube
+  - tree
+  - player
+  - food
+  - water
+  - food_blue
+  - rock
+  - pond
+  - heatObject
+  - symbol_O
+  - target
+  - symbol_X
+  - thermalGridCube
+  - hill
+  - sensor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Court
+  - Water
+  - UI
+  - Special
+  - Player
+  - Resource
+  - Colliding Objects
+  - LandmarkArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

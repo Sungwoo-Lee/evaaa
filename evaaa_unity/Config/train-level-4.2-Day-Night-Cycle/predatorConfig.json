@@ -1,0 +1,109 @@
+{
+    "groups": [
+        {
+            "prefabName": "Predator",
+            "count": 1,
+            "position": {
+                "xMin": -10.0,
+                "xMax": -5.0,
+                "yMin": 0.5833,
+                "yMax": 0.5833,
+                "zMin": -10.0,
+                "zMax": -5.0
+            },
+            "rotationRange": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 1.0,
+                "xMax": 1.0,
+                "yMin": 1.0,
+                "yMax": 1.0,
+                "zMin": 1.0,
+                "zMax": 1.0
+            },
+            "walkSpeed": 6.0,
+            "turnSpeed": 180.0,
+            "viewAngle": 120.0,
+            "viewDistance": 20.0,
+            "damageAmount": 5.0,
+            "maxDamage": 20.0,
+            "attackInterval": 1.0,
+            "maxRestingSteps": 5,
+            "maxSearchingSteps": 150,
+            "searchingActionInterval": 60
+        },
+        {
+            "prefabName": "Predator",
+            "count": 1,
+            "position": {
+                "xMin": 5.0,
+                "xMax": 10.0,
+                "yMin": 0.5833,
+                "yMax": 0.5833,
+                "zMin": -10.0,
+                "zMax": -5.0
+            },
+            "rotationRange": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 1.0,
+                "xMax": 1.0,
+                "yMin": 1.0,
+                "yMax": 1.0,
+                "zMin": 1.0,
+                "zMax": 1.0
+            },
+            "walkSpeed": 6.0,
+            "turnSpeed": 180.0,
+            "viewAngle": 120.0,
+            "viewDistance": 20.0,
+            "damageAmount": 5.0,
+            "maxDamage": 20.0,
+            "attackInterval": 1.0,
+            "maxRestingSteps": 5,
+            "maxSearchingSteps": 200,
+            "searchingActionInterval": 80
+        },
+        {
+            "prefabName": "Predator",
+            "count": 1,
+            "position": {
+                "xMin": -5.0,
+                "xMax": 5.0,
+                "yMin": 0.5833,
+                "yMax": 0.5833,
+                "zMin": 5.0,
+                "zMax": 10.0
+            },
+            "rotationRange": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scaleRange": {
+                "xMin": 1.0,
+                "xMax": 1.0,
+                "yMin": 1.0,
+                "yMax": 1.0,
+                "zMin": 1.0,
+                "zMax": 1.0
+            },
+            "walkSpeed": 6.0,
+            "turnSpeed": 180.0,
+            "viewAngle": 120.0,
+            "viewDistance": 20.0,
+            "damageAmount": 5.0,
+            "maxDamage": 20.0,
+            "attackInterval": 1.0,
+            "maxRestingSteps": 5,
+            "maxSearchingSteps": 250,
+            "searchingActionInterval": 100
+        }
+    ]
+} 

@@ -1,0 +1,13 @@
+{
+    "isAIControlled": true,
+    "configFolderName": "train-level-4.1-Predator-Threat",
+    "recordingScreen": {
+        "recordEnable": "false",
+        "recordingFolderName": "SampleRecording"
+    },
+    "experimentData": {
+        "recordEnable": "false",
+        "baseFolderName": "ExperimentData",
+        "fileNamePrefix": "data"
+    }
+}

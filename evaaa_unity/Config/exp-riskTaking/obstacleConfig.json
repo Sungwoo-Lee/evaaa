@@ -1,0 +1,153 @@
+{
+    "groups": [
+        {
+            "prefabName": "Tree",
+            "count": 0,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -45, "xMax": 45,
+                "yMin": 0, "yMax": 0,
+                "zMin": -45, "zMax": 45
+            },
+            "rotationRange": { "x": 0, "y": 0, "z": 0 },
+            "scaleRange": {
+                "xMin": 0.8, "xMax": 1.2,
+                "yMin": 0.8, "yMax": 1.2,
+                "zMin": 0.8, "zMax": 1.2
+            }
+        },
+        {
+            "prefabName": "Bush2",
+            "count": 0,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -45, "xMax": 45,
+                "yMin": 0, "yMax": 0,
+                "zMin": -45, "zMax": 45
+            },
+            "rotationRange": { "x": 0, "y": 0, "z": 0 },
+            "scaleRange": {
+                "xMin": 5, "xMax": 10,
+                "yMin": 5, "yMax": 10,
+                "zMin": 5, "zMax": 10
+            }
+        },
+        {
+            "prefabName": "Small_Rock1",
+            "count": 0,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": -45, "xMax": 45,
+                "yMin": 0, "yMax": 0,
+                "zMin": -45, "zMax": 45
+            },
+            "rotationRange": { "x": 0, "y": 360, "z": 0 },
+            "scaleRange": {
+                "xMin": 1, "xMax": 1,
+                "yMin": 1, "yMax": 1,
+                "zMin": 1, "zMax": 1
+            }
+        },
+        {
+            "prefabName": "Block",
+            "count": 1,
+            "temperature": 0.0,
+            "padding": 2.0,
+            "position": {
+                "xMin": 0, "xMax": 0,
+                "yMin": 2, "yMax": 2,
+                "zMin": 5, "zMax": 5
+            },
+            "rotationRange": { "x": 0, "y": 0, "z": 0 },
+            "scaleRange": {
+                "xMin": 1, "xMax": 1,
+                "yMin": 5, "yMax": 5,
+                "zMin": 20, "zMax": 20
+            }
+        },
+        {
+            "prefabName": "SM_campfire_001_AmbienceFX",
+            "count": 1,
+            "temperature": 10000.0,
+            "padding": 0.0,
+            "position": {
+              "xMin": -8.5,
+              "xMax": -8.5,
+              "yMin": 0.5,
+              "yMax": 0.5,
+              "zMin": -5.0,
+              "zMax": -5.0
+            },
+            "rotationRange": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "scaleRange": {
+              "xMin": 1.5,
+              "xMax": 1.5,
+              "yMin": 1.5,
+              "yMax": 1.5,
+              "zMin": 1.5,
+              "zMax": 1.5
+            }
+          },
+          {
+            "prefabName": "SM_campfire_001_AmbienceFX",
+            "count": 1,
+            "temperature": 10000.0,
+            "padding": 0.0,
+            "position": {
+              "xMin": -13.0,
+              "xMax": -13.0,
+              "yMin": 0.5,
+              "yMax": 0.5,
+              "zMin": -5.0,
+              "zMax": -5.0
+            },
+            "rotationRange": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "scaleRange": {
+              "xMin": 1.5,
+              "xMax": 1.5,
+              "yMin": 1.5,
+              "yMax": 1.5,
+              "zMin": 1.5,
+              "zMax": 1.5
+            }
+          },
+          {
+            "prefabName": "SM_campfire_001_AmbienceFX",
+            "count": 1,
+            "temperature": 10000.0,
+            "padding": 0.0,
+            "position": {
+              "xMin": -3.7,
+              "xMax": -3.7,
+              "yMin": 0.5,
+              "yMax": 0.5,
+              "zMin": -5.0,
+              "zMax": -5.0
+            },
+            "rotationRange": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "scaleRange": {
+              "xMin": 1.5,
+              "xMax": 1.5,
+              "yMin": 1.5,
+              "yMax": 1.5,
+              "zMin": 1.5,
+              "zMax": 1.5
+            }
+          }
+    ]
+}
