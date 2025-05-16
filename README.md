@@ -23,7 +23,7 @@ Key features include:
 
 ## 🤖 Emergent Behavior of the Agent
 
-|type| Unsuccessful Agent in Two-Resource Scenario | Successful Agent in Two-Resource Scenario |
+<!-- |type| Unsuccessful Agent in Two-Resource Scenario | Successful Agent in Two-Resource Scenario |
 |:-------------------:|:-------------------------------------------:|:-----------------------------------------:|
 | training |![level-1-1](image/level-1-1.jpeg)|![level-2-1](image/level-2-1.jpeg)|
 | testing | ![Failed agent](image/level-1-1_exp-two-resource-food.gif)<br><sub>This agent operated only in level-1-1,<br>where resources are readily accessible and visible.</sub> | ![Succeed agent](image/level-2-1_exp-two-resource-food.gif)<br><sub>This agent navigated level-2-1,<br>where resources must be actively searched for and are less apparent.</sub> |
@@ -32,7 +32,20 @@ Key features include:
 |type| Normal Foraging Behavior | Abnormal Self-Terminating Behavior |
 |:-------------------:|:-------------------------------------------:|:-----------------------------------------:|
 | training |![level-3-1](image/level-3-1.jpeg)|![level-3-2](image/level-3-2.jpeg)|
-| testing | ![Failed agent](image/level-3-1_exp-Ymaze.gif)<br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | ![Succeed agent](image/level-3-2_exp-Ymaze.gif)<br><sub>In level-3-2, dynamic resource locations increased uncertainty, prompting the agent to self-terminate early when food was not found to avoid negative rewards.</sub> |
+| testing | ![Failed agent](image/level-3-1_exp-Ymaze.gif)<br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | ![Succeed agent](image/level-3-2_exp-Ymaze.gif)<br><sub>In level-3-2, dynamic resource locations increased uncertainty, prompting the agent to self-terminate early when food was not found to avoid negative rewards.</sub> | -->
+
+| type | Unsuccessful Agent in Two-Resource Scenario | Successful Agent in Two-Resource Scenario |
+|:----:|:-------------------------------------------:|:-----------------------------------------:|
+| training | <img src="image/level-1-1.jpeg" width="250"/> | <img src="image/level-2-1.jpeg" width="250"/> |
+| testing | <img src="image/level-1-1_exp-two-resource-food.gif" width="250"/><br><sub>This agent operated only in level-1-1,<br>where resources are readily accessible and visible.</sub> | <img src="image/level-2-1_exp-two-resource-food.gif" width="250"/><br><sub>This agent navigated level-2-1,<br>where resources must be actively searched for and are less apparent.</sub> |
+
+---
+
+| type | Normal Foraging Behavior | Abnormal Self-Terminating Behavior |
+|:----:|:--------------------------:|:----------------------------------:|
+| training | <img src="image/level-3-1.jpeg" width="250"/> | <img src="image/level-3-2.jpeg" width="250"/> |
+| testing | <img src="image/level-3-1_exp-Ymaze.gif" width="250"/><br><sub>This agent was trained on level-3-1, where food resources are located in consistent and predictable positions.</sub> | <img src="image/level-3-2_exp-Ymaze.gif" width="250"/><br><sub>In level-3-2, dynamic resource locations increased uncertainty, prompting the agent to self-terminate early when food was not found to avoid negative rewards.</sub> |
+
 
 
 ## 📝 Overview
