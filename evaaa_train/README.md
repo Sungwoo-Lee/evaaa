@@ -169,16 +169,6 @@ The vector observation is a concatenated array of different sensor readings:
 
 For detailed explanations of each observation type, including how they are calculated and their specific properties, see here.
 
-<details>
-<summary> Detailed Observations </summary>
-
-![sup_fig2.png](../image/sup_fig2.png)
-
-![sup_fig3.png](../image/sup_fig3.png)
-
-</details>
-
-
 ### Example Usage
 ```python
 # Accessing different observation types
