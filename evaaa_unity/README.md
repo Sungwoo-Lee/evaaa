@@ -170,7 +170,7 @@ EVAAA is designed so that all environment, agent, and task settings are controll
 |                                            | exp-predator                         |
 
 
-![fig3](image/fig3.png)
+![fig3](../image/fig3.png)
 
 #### 3. Modifying Environment, Agent, or Task Settings
 - Open the folder named in `configFolderName` (e.g., `Config/train-level-2.1-Obstacles/`).

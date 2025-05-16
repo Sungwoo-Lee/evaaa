@@ -37,7 +37,7 @@ This folder includes three main algorithms:
 - **PPO (Proximal Policy Optimization)**: Implemented from SheepRL framework
 - **DQN (Deep Q-Network)**: Custom implementation by our team
 
-![fig4](image/fig4.png)
+![fig4](../image/fig4.png)
 The training results are stored in the [plotting](/evaaa_train/plotting/) directory.
 
 <a id="environment-setup"></a>
@@ -154,7 +154,7 @@ The EVAAA environment provides multiple observation channels through the ML-Agen
 - `obs[0]`: Visual observation (camera input)
 - `obs[1]`: Vector observation containing multiple sensor readings
 
-![fig2](image/fig2.png)
+![fig2](../image/fig2.png)
 
 
 ### Vector Observations (obs[1])
@@ -172,9 +172,9 @@ For detailed explanations of each observation type, including how they are calcu
 <details>
 <summary> Detailed Observations </summary>
 
-![sup_fig2.png](image/sup_fig2.png)
+![sup_fig2.png](../image/sup_fig2.png)
 
-![sup_fig3.png](image/sup_fig3.png)
+![sup_fig3.png](../image/sup_fig3.png)
 
 </details>
 
