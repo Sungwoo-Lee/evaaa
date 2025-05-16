@@ -36,6 +36,10 @@ EVAAA thus provides a principled, extensible framework for studying autonomy, ad
 ## 📝 Overview
 EVAAA (Essential Variables in Autonomous and Adaptive Agents) is a research platform for studying autonomy, adaptivity, and internal-state-driven control in reinforcement learning (RL) agents. The project consists of two main components:
 
+> ⚠️ **Note for https://anonymous.4open.science/r/evaaa-2486 version of :**  
+> To ensure the links below work correctly, please **manually click** on the `evaaa_unity` and `evaaa_train` folders in the left sidebar first.  
+> This initializes the folder paths and allows the documentation links to function properly.
+ 
 - **Unity Simulation Environment** ([evaaa_unity](./evaaa_unity/README.md)): A 3D, multimodal, curriculum-based environment where agents must regulate internal physiological variables (food, water, thermal, damage) to survive and adapt. Built with Unity ML-Agents, supporting rich sensory input and flexible configuration.
 - **Python Training Suite** ([evaaa_train](./evaaa_train/README.md)): A modular training and evaluation framework (based on SheepRL) for developing RL agents in the EVAAA environment. Includes implementations of DQN, PPO, and DreamerV3, with tools for logging, evaluation, and curriculum learning.
 
