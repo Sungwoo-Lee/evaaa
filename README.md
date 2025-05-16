@@ -53,7 +53,7 @@ EVAAA (Essential Variables in Autonomous and Adaptive Agents) is a research plat
 ```
 
 - **`evaaa_unity/`**: Contains the Unity project for the EVAAA simulation environment. See [`evaaa_unity/README.md`](https://anonymous.4open.science/r/evaaa-2486/evaaa_unity/) for setup, configuration, and usage instructions.
-- **`evaaa_train/`**: Contains the Python code for training and evaluating RL agents in EVAAA. See [`evaaa_train/README.md`](https://anonymous.4open.science/r/evaaa-2486/evaaa_python/README.md) for installation, training commands, and evaluation details.
+- **`evaaa_train/`**: Contains the Python code for training and evaluating RL agents in EVAAA. See [`evaaa_train/README.md`](https://anonymous.4open.science/r/evaaa-2486/evaaa_train/README.md) for installation, training commands, and evaluation details.
 
 ---
 
