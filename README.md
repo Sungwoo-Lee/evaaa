@@ -7,7 +7,7 @@
 <!-- ![fig1](image/fig1.png)
  -->
  <p align="center">
-  <img src="image/fig1.png" alt="Figure 1" width="500"/>
+  <img src="image/fig1.png" alt="Figure 1" width="1000"/>
 </p>
 
 EVAAA (Essential Variables in Autonomous and Adaptive Agents) is a biologically inspired 3D simulation platform for reinforcement learning (RL) research. Unlike traditional RL environments that rely on externally defined, task-specific rewards, EVAAA grounds agent motivation in the regulation of internal physiological variables—such as food, water, thermal balance, and damage—mirroring the homeostatic drives found in biological organisms.
