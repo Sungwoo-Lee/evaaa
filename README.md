@@ -80,4 +80,5 @@ EVAAA (Essential Variables in Autonomous and Adaptive Agents) is a research plat
 ## 📚 Citing EVAAA
 
 ## 📄 License
-This project is licensed under the [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+This project is licensed under the [License: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
